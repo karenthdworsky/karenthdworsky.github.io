@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Karenth Dworsky"
+  navbar:
+    background: "#1a1a1a"
+    foreground: "#e8e8e8"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: fieldnotes.qmd
+        text: Field Notes
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/karenthdworsky
+      - icon: mortarboard-fill
+        href: https://orcid.org/0000-0002-3287-6934
+
+format:
+  html:
+    theme: [darkly, custom.scss]
+    toc: false
+    page-layout: full

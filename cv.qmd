@@ -1,0 +1,82 @@
+---
+title: ""
+---
+
+<div class="section">
+<p class="section-title">Curriculum Vitae</p>
+
+## Karenth Dworsky, PH
+
+**Professional Hydrologist · #24-PH-05033**  
+Steamboat Springs, CO · [ORCID](https://orcid.org/0000-0002-3287-6934)
+
+---
+
+### Education
+
+| | |
+|-|-|
+| **PhD, Watershed Science** | Colorado State University · *In progress* |
+| | Advisor: Dr. Steven Fassnacht |
+| | Dissertation: Post-Fire Rain-on-Snow Hydrology in the Eastern Cascades |
+| **MS / BS** | *[Add your degrees here]* |
+
+---
+
+### Federal Experience
+
+**USDA Forest Service — Okanogan-Wenatchee National Forest** *(current)*  
+*GS-12 Watershed Project Manager · BAER Coordinator · Water Rights Program Manager*
+
+- Post-fire emergency watershed assessment (BAER) coordination for major fire events
+- Water rights administration and interstate compact compliance
+- NEPA compliance for aquatic and riparian resource impacts
+- Tribal coordination with Yakama Nation and Colville Confederated Tribes
+- Aquatic organism passage (AOP) replacement and floodplain restoration
+
+**USGS — Alaska Science Center**  
+*Hydrologist*
+
+- Arctic watershed monitoring and streamflow analysis
+
+**U.S. Army Corps of Engineers — Albuquerque District**  
+*Water Resources Engineer*
+
+- Section 404 permitting and jurisdictional determinations
+- Water resources planning and flood risk analysis
+
+---
+
+### Research
+
+**PhD Dissertation** — Post-Fire Rain-on-Snow Hydrology, Eastern Cascades  
+*Colorado State University, Dr. Steven Fassnacht, 2023–present*
+
+- Remote sensing of post-fire snowpack depletion using MODIS fSCA, Sentinel-1 SAR, and RAVG canopy loss metrics
+- Field monitoring network design across burned and unburned watersheds
+- Historical streamflow analysis across fire-affected Methow and Chelan basin gages
+
+---
+
+### Skills & Tools
+
+| Category | Tools |
+|----------|-------|
+| Programming | R · Google Earth Engine · Quarto |
+| GIS | QGIS · ArcGIS · CalTopo · Gaia GPS |
+| Remote Sensing | MODIS · Sentinel-1 SAR · Landsat · RAVG |
+| Data | SNOTEL · USGS dataRetrieval · WDOE Aquarius · NHDPlus |
+| Version Control | Git · GitHub |
+
+---
+
+### Certifications & Affiliations
+
+- Professional Hydrologist (PH #24-PH-05033) — American Institute of Hydrology
+- USDA Forest Service — 12+ years federal service
+
+---
+
+*Full CV available upon request.*
+
+</div>

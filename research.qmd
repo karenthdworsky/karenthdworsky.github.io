@@ -1,0 +1,71 @@
+---
+title: ""
+---
+
+<div class="section">
+<p class="section-title">Dissertation Research</p>
+
+## Post-Fire Rain-on-Snow Hydrology in the Eastern Cascades
+
+Wildfire fundamentally alters the forest canopy that regulates snowpack energy balance. 
+In the Eastern Cascades, where rain-on-snow events drive some of the most dangerous 
+flood and debris flow hazards, understanding how canopy loss changes snowmelt timing 
+and magnitude is an urgent and open question.
+
+My dissertation uses remote sensing, field instrumentation, and long-term streamflow 
+records to quantify these effects across a gradient of burn severity at two fire sites 
+in Washington State.
+
+---
+
+### Field Sites
+
+| Site | Fire | Year | Watershed |
+|------|------|------|-----------|
+| Labor Mountain | Labor Mountain Fire | 2023 | Tillicum Creek |
+| Lower Sugarloaf | Lower Sugarloaf Fire | 2024 | Peshastin Creek |
+| Squilchuck Creek | — | — | Unburned control |
+
+---
+
+### Dissertation Papers
+
+| | Topic | Key Data | Status |
+|-|-------|----------|--------|
+| **Paper 1** | Does RAVG canopy loss predict spatial snowpack depletion during the December 2025 atmospheric river? | MODIS fSCA · Sentinel-1 SAR · Landsat dNBR · RAVG CC-5 | In progress |
+| **Paper 2** | Regional rain-on-snow detection across the western US | SNOTEL · MODIS · NWM | Planned |
+| **Paper 3** | Historical burned vs. unburned streamflow response — Eastern Cascades | USGS 15-min streamflow · MTBS 2009–2024 | Planned |
+| **Paper 4** | Field instrumentation and monitoring network design | Timelapse cameras · snow stakes · tipping buckets · pressure transducers | Planned |
+
+---
+
+### Remote Sensing Tools
+
+- **MODIS fSCA** — fractional snow cover area time series
+- **Sentinel-1 SAR** — wet snow detection
+- **Landsat dNBR** — burn severity mapping
+- **RAVG CC-5** — canopy cover change post-fire
+- **Google Earth Engine** — cloud-based processing platform
+
+---
+
+### Monitoring Network
+
+Field instrumentation deployed at Labor Mountain and Lower Sugarloaf includes 
+timelapse cameras, snow stakes, tipping bucket precipitation gauges, pressure 
+transducers, and temperature/humidity loggers. Reference SNOTEL stations: 
+Pope Ridge, Harts Pass, Rainy Pass, and Blewett Pass.
+
+</div>
+
+<div class="section">
+<p class="section-title">Federal Research Context</p>
+
+This work is embedded in my role as BAER (Burned Area Emergency Response) Coordinator 
+at the Okanogan-Wenatchee National Forest, where post-fire watershed assessment directly 
+informs land management decisions and public safety. My dissertation bridges the gap 
+between operational emergency response and long-term hydrologic research.
+
+Tribal partnerships with the Yakama Nation and Colville Confederated Tribes inform 
+field site access and research priorities.
+</div>

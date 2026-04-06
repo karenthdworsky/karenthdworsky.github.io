@@ -1,0 +1,197 @@
+/*-- Custom CSS for karenthdworsky.github.io --*/
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600&family=Source+Code+Pro&display=swap');
+
+/* Base */
+body {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  background-color: #0f0f0f;
+  color: #d4d4d4;
+}
+
+/* Hero section */
+.hero {
+  position: relative;
+  height: 100vh;
+  min-height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  overflow: hidden;
+  margin-top: -56px;
+}
+
+.hero-img {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  object-fit: cover;
+  object-position: center;
+  filter: brightness(0.45);
+  z-index: 0;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+  padding: 2rem;
+}
+
+.hero-content h1 {
+  font-size: 3.5rem;
+  font-weight: 600;
+  color: #ffffff;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.5rem;
+}
+
+.hero-content .subtitle {
+  font-size: 1.2rem;
+  color: #b0c4d8;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+}
+
+.hero-content .tagline {
+  font-size: 1rem;
+  color: #8fa8c0;
+  font-style: italic;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Section styling */
+.section {
+  max-width: 900px;
+  margin: 4rem auto;
+  padding: 0 2rem;
+}
+
+.section-title {
+  font-size: 0.85rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: #7ab3cc;
+  border-bottom: 1px solid #2a2a2a;
+  padding-bottom: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+/* About photo + text layout */
+.about-grid {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 3rem;
+  align-items: start;
+}
+
+.about-photo {
+  width: 100%;
+  border-radius: 4px;
+  filter: brightness(0.9) contrast(1.05);
+}
+
+/* Field notes / cards */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.card {
+  background: #1a1a1a;
+  border: 1px solid #2a2a2a;
+  border-radius: 4px;
+  overflow: hidden;
+  transition: border-color 0.2s;
+}
+
+.card:hover {
+  border-color: #7ab3cc;
+}
+
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  filter: brightness(0.85);
+}
+
+.card-body {
+  padding: 1.2rem;
+}
+
+.card-body h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #e0e0e0;
+  margin-bottom: 0.5rem;
+}
+
+.card-body p {
+  font-size: 0.85rem;
+  color: #888;
+  line-height: 1.6;
+}
+
+.card-tag {
+  display: inline-block;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #7ab3cc;
+  margin-bottom: 0.5rem;
+}
+
+/* Navbar tweaks */
+.navbar {
+  background-color: rgba(15, 15, 15, 0.95) !important;
+  border-bottom: 1px solid #2a2a2a;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+
+/* Research table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+th {
+  font-size: 0.75rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #7ab3cc;
+  border-bottom: 1px solid #2a2a2a;
+  padding: 0.75rem 0;
+}
+
+td {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #1e1e1e;
+  color: #b0b0b0;
+  vertical-align: top;
+}
+
+/* Badge row */
+.badge-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .hero-content h1 { font-size: 2rem; }
+  .about-grid { grid-template-columns: 1fr; }
+}
