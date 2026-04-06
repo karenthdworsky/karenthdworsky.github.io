@@ -8,75 +8,88 @@ title: ""
 ## Karenth Dworsky, PH
 
 **Professional Hydrologist · #24-PH-05033**  
-Steamboat Springs, CO · [ORCID](https://orcid.org/0000-0002-3287-6934)
+Steamboat Springs, CO · [ORCID](https://orcid.org/0000-0002-3287-6934)  
+U.S. Citizen · Current Federal Employee: USDA Forest Service, GS-12, Series 1315
 
 ---
 
 ### Education
 
-| | |
-|-|-|
-| **PhD, Watershed Science** | Colorado State University · *In progress* |
-| | Advisor: Dr. Steven Fassnacht |
-| | Dissertation: Post-Fire Rain-on-Snow Hydrology in the Eastern Cascades |
-| **MS / BS** | *[Add your degrees here]* |
+| | | |
+|-|-|-|
+| **PhD, Watershed Science** *(In Progress)* | Colorado State University | Expected 2028 · GPA 3.7 |
+| | *Advisor: Dr. Steven Fassnacht* | |
+| | *Post-fire rain-on-snow hydrology, multi-sensor remote sensing (MODIS fSCA, Sentinel-1 SAR)* | |
+| **MS, Geology** | University of Utah | 2013 · GPA 3.6 |
+| | *Thesis: Subsurface flow modeling and groundwater systems* | |
+| **MS, Environmental Law** | University of Auckland, New Zealand | 2011 · GPA 3.3 |
+| | *Thesis: Water rights, environmental policy, and transboundary water management* | |
+| **BS, Geological Sciences & Mathematics** | University of Alaska Anchorage | 2009 · GPA 3.4 |
 
 ---
 
-### Federal Experience
+### Work Experience
 
-**USDA Forest Service — Okanogan-Wenatchee National Forest** *(current)*  
-*GS-12 Watershed Project Manager · BAER Coordinator · Water Rights Program Manager*
+**Watershed Project Manager, BAER Coordinator & Water Rights Program Manager** · *11/2022 – Present*  
+USDA Forest Service, Okanogan-Wenatchee National Forest, Wenatchee, WA · GS-12, Series 1315 · 40 hrs/week
 
-- Post-fire emergency watershed assessment (BAER) coordination for major fire events
-- Water rights administration and interstate compact compliance
-- NEPA compliance for aquatic and riparian resource impacts
-- Tribal coordination with Yakama Nation and Colville Confederated Tribes
-- Aquatic organism passage (AOP) replacement and floodplain restoration
+- Secured $2–5M in federal restoration funding through GAOA and CFLRP, replacing 8 aquatic organism passages and reconnecting over 50 miles of stream habitat for salmon and native species across a 4-million-acre National Forest
+- Led watershed restoration planning for Beaver Creek, Teanaway, and Little Naches HUC-8 watersheds, establishing science-based restoration priorities, project sequencing, and long-term monitoring frameworks
+- Coordinated Burned Area Emergency Response (BAER) following major wildfires (Pioneer, Lower Sugarloaf, Retreat, Labor Mountain), partnering with USGS, WA DNR, and WA Geological Survey to assess debris flow hazards; served as agency public spokesperson on water quality and hazard conditions
+- Administered federal reserved water rights; represented Forest Service in Yakima Nation and Nooksack water rights adjudications, coordinating with tribal nations, state agencies, and legal counsel
+- Managed multi-agency restoration programs with 10+ partners including Bureau of Reclamation, Bonneville Power Administration, USFWS, Yakama Nation Fisheries, and Colville Confederated Tribes
+- Supervised four permanent seasonal staff; developed and delivered technical training programs, weekly internal seminars, and monthly scholarly paper discussions
 
-**USGS — Alaska Science Center**  
-*Hydrologist*
+**Hydrologist** · *10/2020 – 11/2022*  
+U.S. Army Corps of Engineers, Albuquerque District, Albuquerque, NM · GS-11, Series 1315 · 40 hrs/week
 
-- Arctic watershed monitoring and streamflow analysis
+- Built HEC-HMS and HEC-RAS hydrologic and hydraulic models for water supply planning, flood scenario analysis, and river restoration design for municipal and tribal clients across the Southwest
+- Developed watershed management plans addressing water quality, flood resilience, and water supply sustainability for tribal nations, El Paso Water, City of Trinidad, and state agencies
+- Coordinated CWA Section 404 compliance and NEPA documentation; conducted source water protection assessments in watersheds with legacy mine contamination
 
-**U.S. Army Corps of Engineers — Albuquerque District**  
-*Water Resources Engineer*
+**Hydrologist** · *05/2013 – 10/2020*  
+U.S. Geological Survey, Alaska Science Center, Anchorage, AK · GS-09, Series 1315 · 40 hrs/week
 
-- Section 404 permitting and jurisdictional determinations
-- Water resources planning and flood risk analysis
-
----
-
-### Research
-
-**PhD Dissertation** — Post-Fire Rain-on-Snow Hydrology, Eastern Cascades  
-*Colorado State University, Dr. Steven Fassnacht, 2023–present*
-
-- Remote sensing of post-fire snowpack depletion using MODIS fSCA, Sentinel-1 SAR, and RAVG canopy loss metrics
-- Field monitoring network design across burned and unburned watersheds
-- Historical streamflow analysis across fire-affected Methow and Chelan basin gages
+- Managed statewide water resources monitoring program across Alaska; collected, analyzed, and interpreted streamflow and water quality data from USGS monitoring networks
+- Secured multi-year cooperative agreement funding from state and federal partners; managed grant budgets and reporting across concurrent awards totaling millions in federal investment
+- Authored peer-reviewed publications on channel change and bridge scour; developed public data visualization tools to improve Alaskan community access to water resources information
+- Supervised and trained field technicians across remote Alaska sites; conducted streamflow measurements, water quality sampling, and bridge scour assessments statewide
 
 ---
 
-### Skills & Tools
+### Publications
+
+- Dworsky et al. *(In Preparation)* · Western Snow Conference 2026
+- Dworsky & Conaway (2019) · USGS Open-File Report 2019-1028
+- Beebee, Dworsky & Knopp (2019) · USGS Scientific Investigations Report
+
+---
+
+### Technical Skills
 
 | Category | Tools |
 |----------|-------|
-| Programming | R · Google Earth Engine · Quarto |
-| GIS | QGIS · ArcGIS · CalTopo · Gaia GPS |
-| Remote Sensing | MODIS · Sentinel-1 SAR · Landsat · RAVG |
-| Data | SNOTEL · USGS dataRetrieval · WDOE Aquarius · NHDPlus |
-| Version Control | Git · GitHub |
+| Programming | R (advanced) · Google Earth Engine · GitHub |
+| GIS & Remote Sensing | ArcGIS Pro · ArcGIS Online · QGIS · ENVI · Sentinel-1 SAR · MODIS fSCA |
+| Hydrologic Modeling | HEC-RAS · HEC-HMS |
+| Data | SNOTEL · USGS dataRetrieval · ASOS · NHDPlus |
 
 ---
 
-### Certifications & Affiliations
+### Certifications & Service
 
-- Professional Hydrologist (PH #24-PH-05033) — American Institute of Hydrology
-- USDA Forest Service — 12+ years federal service
+- Professional Hydrologist (PH) #24-PH-05033 · American Institute of Hydrology
+- Forest Service Tethered Logging & Soil Impacts Committee
+- Washington State Post-Fire Hydrology & Atmospheric River Modeling Committee
 
 ---
 
-*Full CV available upon request.*
+### Languages
+
+English (native) · Portuguese (proficient) · Spanish (intermediate)
+
+---
+
+*Full federal resume available upon request.*
 
 </div>
