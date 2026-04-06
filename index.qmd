@@ -16,7 +16,7 @@ format:
   <img class="hero-img" src="images/hero.jpeg" alt="Burned forest with light rays">
   <div class="hero-content">
     <h1>Karenth Dworsky 🔥❄️</h1>
-    <p class="subtitle">Watershed Scientist &nbsp;·&nbsp; Federal Hydrologist &nbsp;·&nbsp; PhD Candidate</p>
+    <p class="subtitle">Watershed Scientist &nbsp;·&nbsp; Hydrologist &nbsp;·&nbsp; PhD Candidate</p>
     <p class="tagline">Studying what fire leaves behind — and what snow does next.</p>
   </div>
 </div>

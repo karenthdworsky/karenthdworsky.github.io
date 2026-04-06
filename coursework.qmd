@@ -1,0 +1,57 @@
+---
+title: ""
+---
+
+```{=html}
+<div class="section">
+<p class="section-title">Coursework & Code</p>
+
+<p>Graduate coursework completed as part of my PhD in Watershed Science at Colorado State University. 
+All code is publicly available on GitHub.</p>
+
+<hr>
+
+<h3>ESS 523c: Water Resources and Environmental Data Science</h3>
+<p><em>Spring 2026 · Instructor: Dr. Mike Johnson</em></p>
+<p>Applied spatial data science for water resources using R, sf, and Quarto. Topics include 
+spatial distance analysis, coordinate reference systems, hydrologic network analysis, 
+interactive mapping, and federal policy applications of spatial data.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Lab</th>
+      <th>Topic</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lab 1</td>
+      <td>Colorado River Basin hydrology pipeline using USGS dataRetrieval</td>
+      <td><a href="https://karenthdworsky.github.io/csu-523c/lab-01.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
+    <tr>
+      <td>Lab 2</td>
+      <td>Spatial distances, projections, and the 100-mile border zone</td>
+      <td><a href="https://karenthdworsky.github.io/csu-523c/lab-02.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p style="margin-top: 1rem;"><a href="https://github.com/karenthdworsky/csu-523c" style="color: #7ab3cc;">→ View full repository on GitHub</a></p>
+
+<hr>
+
+<h3>GEOL 554: Remote Sensing</h3>
+<p><em>Spring 2026</em></p>
+<p>Graduate remote sensing methods with applications in earth and environmental science. 
+Topics include hyperspectral analysis, image classification, thermal infrared processing, 
+passive microwave remote sensing, and SAR backscatter interpretation.</p>
+
+<hr>
+
+<p style="color: #888; font-size: 0.85rem;"><em>Additional courses and labs will be added as they are completed.</em></p>
+
+</div>
+```

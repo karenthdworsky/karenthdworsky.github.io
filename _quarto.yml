@@ -14,6 +14,8 @@ website:
         text: Research
       - href: fieldnotes.qmd
         text: Field Notes
+      - href: coursework.qmd
+        text: Coursework & Code
       - href: cv.qmd
         text: CV
     right:
