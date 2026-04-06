@@ -2,13 +2,14 @@
 title: ""
 ---
 
+```{=html}
 <div class="section">
 <p class="section-title">Field Notes</p>
 
-*Observations, figures in progress, and remote sensing outputs from the field. 
-Updated as the dissertation develops.*
+<p><em>Observations, figures in progress, and remote sensing outputs from the field. 
+Updated as the dissertation develops.</em></p>
 
----
+<hr>
 
 <div class="card-grid">
 
@@ -58,9 +59,9 @@ Updated as the dissertation develops.*
 
 </div>
 
----
+<hr>
 
-*More figures and outputs will be added as GEE analysis and field campaigns progress 
-through 2025–2026.*
+<p style="color: #888; font-size: 0.85rem;"><em>More figures and outputs will be added as GEE analysis and field campaigns progress through 2025–2026.</em></p>
 
 </div>
+```

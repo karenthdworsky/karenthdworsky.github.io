@@ -3,8 +3,14 @@ title: ""
 format:
   html:
     page-layout: full
+    include-in-header:
+      text: |
+        <style>
+        .quarto-title { display: none; }
+        </style>
 ---
 
+```{=html}
 <!-- HERO -->
 <div class="hero">
   <img class="hero-img" src="images/hero.jpeg" alt="Burned forest with light rays">
@@ -56,7 +62,7 @@ format:
     and streamflow response during rain-on-snow events in the Eastern Cascades — a 
     critical and understudied flood hazard in the Pacific Northwest interior.
   </p>
-  <p><a href="research.qmd" style="color: #7ab3cc;">→ Read more about the dissertation</a></p>
+  <p><a href="research.html" style="color: #7ab3cc;">→ Read more about the dissertation</a></p>
 </div>
 
 <!-- FIELD NOTES SNAPSHOT -->
@@ -66,5 +72,6 @@ format:
     Field observations, figures in progress, and remote sensing outputs from the 
     Labor Mountain and Lower Sugarloaf fire sites.
   </p>
-  <p><a href="fieldnotes.qmd" style="color: #7ab3cc;">→ View field notes</a></p>
+  <p><a href="fieldnotes.html" style="color: #7ab3cc;">→ View field notes</a></p>
 </div>
+```
