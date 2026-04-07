@@ -29,12 +29,12 @@ interactive mapping, and federal policy applications of spatial data.</p>
     <tr>
       <td>Lab 1</td>
       <td>Colorado River Basin hydrology pipeline using USGS dataRetrieval</td>
-      <td><a href="https://karenthdworsky.github.io/csu-523c/lab-01.html" style="color: #7ab3cc;">View</a></td>
+      <td><a href="https://karenthdworsky.github.io/csu-523c/LAB01.html" style="color: #7ab3cc;">View</a></td>
     </tr>
     <tr>
       <td>Lab 2</td>
       <td>Spatial distances, projections, and the 100-mile border zone</td>
-      <td><a href="https://karenthdworsky.github.io/csu-523c/lab-02.html" style="color: #7ab3cc;">View</a></td>
+      <td><a href="https://karenthdworsky.github.io/csu-523c/Lab02.html" style="color: #7ab3cc;">View</a></td>
     </tr>
   </tbody>
 </table>
