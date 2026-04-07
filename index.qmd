@@ -17,7 +17,7 @@ format:
   <div class="hero-content">
     <h1>Karenth Dworsky 🔥❄️</h1>
     <p class="subtitle">Watershed Scientist &nbsp;·&nbsp; Hydrologist &nbsp;·&nbsp; PhD Candidate</p>
-    <p class="tagline">Studying what fire leaves behind — and what snow does next.</p>
+    <p class="tagline">Snow, fire, and the watersheds that connect them.</p>
   </div>
 </div>
 
@@ -28,20 +28,20 @@ format:
     <img class="about-photo" src="images/about.jpeg" alt="Karenth in the field">
     <div>
       <p>
-        I'm a watershed scientist and federal hydrologist working at the intersection of 
-        post-fire hydrology, remote sensing, and western water law. I grew up in Alaska 
-        and have spent my career chasing water across the West — from Arctic drainages 
-        to desert arroyos to the fire-scarred forests of the Eastern Cascades.
+        I'm a watershed scientist and a hydrologist working at the intersection of 
+        post-fire hydrology, remote sensing, and snow hydrology. I grew up in Alaska 
+        and have spent my career chasing water across the West, from Arctic streams to 
+        desert arroyos to the fire-scarred forests of the Eastern Cascades.
       </p>
       <p>
-        I currently serve as a GS-12 Watershed Project Manager, BAER Coordinator, and 
+        I currently serve as a Watershed Project Manager, BAER Coordinator, and 
         Water Rights Program Manager at the USDA Forest Service's Okanogan-Wenatchee 
         National Forest, and am completing my PhD in Watershed Science at Colorado State 
         University under Dr. Steven Fassnacht.
       </p>
       <p>
-        When I'm not in the field or staring at snow data, I'm trail running mountain 
-        routes out of Wenatchee or baking sourdough in Steamboat Springs.
+        When I'm not in the field or staring at data, you can find me on long trail 
+        runs in the mountains or on any kind of ski.
       </p>
       <div class="badge-row">
         <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
