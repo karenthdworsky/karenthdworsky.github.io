@@ -49,6 +49,28 @@ interactive mapping, and federal policy applications of spatial data.</p>
 Topics include hyperspectral analysis, image classification, thermal infrared processing, 
 passive microwave remote sensing, and SAR backscatter interpretation.</p>
 
+<table>
+  <thead>
+    <tr>
+      <th>Lab</th>
+      <th>Topic</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lab 4</td>
+      <td>Rain-on-snow detection using MODIS and Sentinel-1 SAR, December 2025 atmospheric river event</td>
+      <td><a href="https://code.earthengine.google.com/634869be55c5cf9a318f4b18df9120b0" style="color: #7ab3cc;">View in GEE</a></td>
+    </tr>
+    <tr>
+      <td>Final Project</td>
+      <td>MODIS snow cover time series for the December 2025 atmospheric river event, Entiat and Wenatchee basins</td>
+      <td><a href="https://code.earthengine.google.com/588ce9473c59e5df6f398d1baa3432ba" style="color: #7ab3cc;">View in GEE</a></td>
+    </tr>
+  </tbody>
+</table>
+
 <hr>
 
 <p style="color: #888; font-size: 0.85rem;"><em>Additional courses and labs will be added as they are completed.</em></p>
