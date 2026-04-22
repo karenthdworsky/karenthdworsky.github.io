@@ -41,6 +41,11 @@ interactive mapping, and federal policy applications of spatial data.</p>
       <td>Tessellations of dam distribution across the United States</td>
       <td><a href="https://karenthdworsky.github.io/csu-523c/lab-03.html" style="color: #7ab3cc;">View</a></td>
     </tr>
+    <tr>
+      <td>Lab 4</td>
+      <td>Using rstac to visualize flooding in Palo, Iowa</td>
+      <td><a href="https://karenthdworsky.github.io/csu-523c/lab-04.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
   </tbody>
 </table>
 
