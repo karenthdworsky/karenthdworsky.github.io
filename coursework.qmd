@@ -51,6 +51,11 @@ interactive mapping, and federal policy applications of spatial data.</p>
       <td>Machine learning for streamflow prediction using CAMELS and tidymodels</td>
       <td><a href="https://karenthdworsky.github.io/csu-523c/lab-05.html" style="color: #7ab3cc;">View</a></td>
     </tr>
+    <tr>
+      <td>Lab 6</td>
+      <td>Predicting Poudre River, CO flows using machine learning and historical streamflow data</td>
+      <td><a href="https://karenthdworsky.github.io/csu-523c/lab-06.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -85,6 +90,123 @@ passive microwave remote sensing, and SAR backscatter interpretation.</p>
     </tr>
   </tbody>
 </table>
+
+<hr>
+
+<h3>Snow Hydrology</h3>
+<p><em>Fall 2025</em></p>
+<p>Graduate snow hydrology with a focus on Water Year 2024 data from Telluride ASOS (TEX) and Red Mountain Pass SNOTEL site 713.
+Topics include climate observations, precipitation analysis, cloud physics, radiation, and snowmelt runoff.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Topic</th>
+      <th>Description</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Climate Observations</td>
+      <td>WY2024 temperature, precipitation, humidity, wind, snow depth, SWE, and snow density</td>
+      <td><a href="https://karenthdworsky.github.io/snow-hydrology-25/climate-observations.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
+    <tr>
+      <td>Cloud Cover</td>
+      <td>Cloud cover frequency, precipitation form, and snow crystal morphology</td>
+      <td><a href="https://karenthdworsky.github.io/snow-hydrology-25/cloud-cover.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
+    <tr>
+      <td>Precipitation Analysis</td>
+      <td>Undercatch correction, precipitation as snow (3 methods), wind during precipitation</td>
+      <td><a href="https://karenthdworsky.github.io/snow-hydrology-25/precipitation-analysis.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
+    <tr>
+      <td>Albedo</td>
+      <td>Surface albedo simulation and analysis</td>
+      <td><a href="https://karenthdworsky.github.io/snow-hydrology-25/albedo.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
+    <tr>
+      <td>Snow Interception</td>
+      <td>Forest canopy interception by tree species (LAI-based)</td>
+      <td><a href="https://karenthdworsky.github.io/snow-hydrology-25/snow-interception.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
+    <tr>
+      <td>Blowing Snow</td>
+      <td>Snow metamorphism, densification, and Pomeroy blowing snow transport</td>
+      <td><a href="https://karenthdworsky.github.io/snow-hydrology-25/blowing-snow.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
+    <tr>
+      <td>Radiation &amp; Energy Balance</td>
+      <td>Longwave/shortwave radiation and energy balance</td>
+      <td><a href="https://karenthdworsky.github.io/snow-hydrology-25/radiation-energy-balance.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
+    <tr>
+      <td>Snowmelt &amp; Runoff</td>
+      <td>Snowmelt factor calibration and baseflow separation</td>
+      <td><a href="https://karenthdworsky.github.io/snow-hydrology-25/snowmelt-runoff.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p style="margin-top: 1rem;"><a href="https://github.com/karenthdworsky/snow-hydrology-25" style="color: #7ab3cc;">→ View full repository on GitHub</a></p>
+
+<hr>
+
+<h3>Introduction to R</h3>
+<p><em>Fall 2025</em></p>
+<p>Graduate introduction to data science in R using tidyverse, ggplot2, and rstatix.
+Topics span data wrangling, visualization principles, hypothesis testing, and regression modeling.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Topic</th>
+      <th>Description</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Data Wrangling</td>
+      <td>Palmer penguins: dplyr select, filter, group_by, summarise, mutate</td>
+      <td><a href="https://karenthdworsky.github.io/intro-r-fall25/data-wrangling.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
+    <tr>
+      <td>Data Visualization</td>
+      <td>Principles of good vs. bad ggplot design</td>
+      <td><a href="https://karenthdworsky.github.io/intro-r-fall25/data-visualization.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
+    <tr>
+      <td>T-Test</td>
+      <td>Salamander length: independent samples t-test, Levene's, Cohen's d</td>
+      <td><a href="https://karenthdworsky.github.io/intro-r-fall25/hypothesis-testing-ttest.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
+    <tr>
+      <td>ANOVA</td>
+      <td>Salamander length by channel type: one-way ANOVA and Tukey HSD</td>
+      <td><a href="https://karenthdworsky.github.io/intro-r-fall25/hypothesis-testing-anova.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
+    <tr>
+      <td>Linear Regression</td>
+      <td>Lake ice duration vs. winter temperature: correlation and simple regression</td>
+      <td><a href="https://karenthdworsky.github.io/intro-r-fall25/linear-regression.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
+    <tr>
+      <td>Multiple Regression</td>
+      <td>USGS gage streamflow: multiple linear regression and model diagnostics</td>
+      <td><a href="https://karenthdworsky.github.io/intro-r-fall25/multiple-regression.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
+    <tr>
+      <td>Statistical Power</td>
+      <td>Cutthroat trout: p-value simulation across sample sizes</td>
+      <td><a href="https://karenthdworsky.github.io/intro-r-fall25/statistical-power.html" style="color: #7ab3cc;">View</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p style="margin-top: 1rem;"><a href="https://github.com/karenthdworsky/intro-r-fall25" style="color: #7ab3cc;">→ View full repository on GitHub</a></p>
 
 <hr>
 
