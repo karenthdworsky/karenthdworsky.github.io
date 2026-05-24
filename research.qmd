@@ -7,31 +7,84 @@ title: ""
 
 ## Post-Fire Rain-on-Snow Hydrology in the Eastern Cascades
 
-Wildfire fundamentally alters the forest canopy that regulates snowpack energy balance. 
-In the Eastern Cascades, where rain-on-snow events drive some of the most dangerous 
-flood and debris flow hazards, understanding how canopy loss changes snowmelt timing 
+Wildfire fundamentally alters the forest canopy that regulates snowpack energy balance.
+In the Eastern Cascades, where rain-on-snow events drive some of the most dangerous
+flood and debris flow hazards, understanding how canopy loss changes snowmelt timing
 and magnitude is an urgent and open question.
 
-My dissertation uses remote sensing, field instrumentation, and long-term streamflow 
-records to quantify these effects across a gradient of burn severity at two fire sites 
+My dissertation uses remote sensing, field instrumentation, and long-term streamflow
+records to quantify these effects across a gradient of burn severity at two fire sites
 in Washington State.
 
 ---
 
-### Field Sites
+### Fire Sites
 
-| Site | Fire | Year | Watershed |
-|------|------|------|-----------|
-| Labor Mountain | Labor Mountain Fire | 2023 | Tillicum Creek |
-| Lower Sugarloaf | Lower Sugarloaf Fire | 2024 | Peshastin Creek |
-| Squilchuck Creek | — | — | Unburned control |
+| Fire | Year | Acres | High Severity | Moderate | Low | Very Low / Unburned |
+|------|------|------:|:-------------:|:--------:|:---:|:-------------------:|
+| Lower Sugarloaf Fire | 2024 | ~43,151 | 4% | 20% | 60% | 16% |
+| Labor Mountain Fire  | 2023 | ~43,836 | 2% | 18% | 67% | 13% |
+
+---
+
+### Field Monitoring Sites
+
+#### Site 1 — Upper Entiat *(Lower Sugarloaf Fire, primary burned)*
+
+| | |
+|:--|:--|
+| **Coordinates** | 47.71876°N, 120.45016°W |
+| **Elevation** | 3,175 ft |
+| **Slope / Aspect** | 7° / 70° ENE |
+| **Watershed** | Tillicum Creek → Mad River (HUC 17020010) |
+| **Fire** | Lower Sugarloaf Fire (2024) |
+| **Instrumentation** | Temperature/RH logger · timelapse camera · 2 snow stakes · stream gage |
+
+---
+
+#### Site 2 — Mad River *(Lower Sugarloaf Fire, lower elevation)*
+
+| | |
+|:--|:--|
+| **Coordinates** | 47.74759°N, 120.39683°W |
+| **Elevation** | 1,449 ft |
+| **Slope / Aspect** | 6° / 130° SE |
+| **Watershed** | Lower Tillicum Creek (HUC 17020010) |
+| **Fire** | Lower Sugarloaf Fire (2024) |
+| **Instrumentation** | Timelapse camera · 2 snow stakes · tipping bucket precipitation gauge |
+
+---
+
+#### Site 3 — Labor Mountain *(Labor Mountain Fire)*
+
+| | |
+|:--|:--|
+| **Coordinates** | 47.40245°N, 120.65537°W |
+| **Elevation** | 2,540 ft |
+| **Slope / Aspect** | 20° / 241° WSW |
+| **Watershed** | Peshastin Creek → Wenatchee River (HUC 17020011) |
+| **Fire** | Labor Mountain Fire (2023) |
+| **Instrumentation** | Temperature/RH logger · timelapse camera · 2 snow stakes · tipping bucket precipitation gauge |
+
+---
+
+#### Site 4 — Squilchuck Creek *(Unburned control)*
+
+| | |
+|:--|:--|
+| **Coordinates** | 47.30465°N, 120.37280°W |
+| **Elevation** | 3,326 ft |
+| **Slope / Aspect** | 17° / 8° N |
+| **Watershed** | Squilchuck Creek (WRIA 40) |
+| **Fire** | None — unburned reference site |
+| **Instrumentation** | Timelapse camera · 2 snow stakes · tipping bucket precipitation gauge |
 
 ---
 
 ### Dissertation Papers
 
 | | Topic | Key Data | Status |
-|-|-------|----------|--------|
+|:-|:------|:---------|:-------|
 | **Paper 1** | Does RAVG canopy loss predict spatial snowpack depletion during the December 2025 atmospheric river? | MODIS fSCA · Sentinel-1 SAR · Landsat dNBR · RAVG CC-5 | In progress |
 | **Paper 2** | Regional rain-on-snow detection across the western US | SNOTEL · MODIS · NWM | Planned |
 | **Paper 3** | Historical burned vs. unburned streamflow response — Eastern Cascades | USGS 15-min streamflow · MTBS 2009–2024 | Planned |
@@ -51,9 +104,7 @@ in Washington State.
 
 ### Monitoring Network
 
-Field instrumentation deployed at Labor Mountain and Lower Sugarloaf includes
-timelapse cameras, snow stakes, tipping bucket precipitation gauges, pressure
-transducers, and temperature/humidity loggers. Reference SNOTEL stations:
+Field instrumentation is deployed at all four sites. Reference SNOTEL stations:
 Pope Ridge, Harts Pass, Rainy Pass, and Blewett Pass.
 
 ---
@@ -61,22 +112,22 @@ Pope Ridge, Harts Pass, Rainy Pass, and Blewett Pass.
 ### December 2025 Atmospheric River — Field Timelapse
 
 The December 2–18, 2025 atmospheric river event delivered significant rain-on-snow
-across all three monitoring sites. These timelapse clips capture snowpack accumulation
+across all monitoring sites. These timelapse clips capture snowpack accumulation
 and response across the burn severity gradient.
 
 ::: {layout-ncol=1}
 
-**Upper Entiat (Lower Sugarloaf Fire site)**
+**Upper Entiat — Site 1 · Lower Sugarloaf Fire · 3,175 ft · Tillicum Creek**
 <video controls width="100%" style="border-radius:6px; margin-bottom:1rem;">
   <source src="videos/Upper_Entiat_Dec2-Dec17.mp4" type="video/mp4">
 </video>
 
-**Mad River (Lower Sugarloaf Fire site)**
+**Mad River — Site 2 · Lower Sugarloaf Fire · 1,449 ft · Lower Tillicum Creek**
 <video controls width="100%" style="border-radius:6px; margin-bottom:1rem;">
   <source src="videos/Mad_River_Dec2-Dec18.mp4" type="video/mp4">
 </video>
 
-**Labor Mountain (Labor Mountain Fire site)**
+**Labor Mountain — Site 3 · Labor Mountain Fire · 2,540 ft · Peshastin Creek**
 <video controls width="100%" style="border-radius:6px; margin-bottom:1rem;">
   <source src="videos/Labor_Dec2-Dec18.mp4" type="video/mp4">
 </video>
@@ -88,11 +139,11 @@ and response across the burn severity gradient.
 <div class="section">
 <p class="section-title">Federal Research Context</p>
 
-This work is embedded in my role as BAER (Burned Area Emergency Response) Coordinator 
-at the Okanogan-Wenatchee National Forest, where post-fire watershed assessment directly 
-informs land management decisions and public safety. My dissertation bridges the gap 
+This work is embedded in my role as BAER (Burned Area Emergency Response) Coordinator
+at the Okanogan-Wenatchee National Forest, where post-fire watershed assessment directly
+informs land management decisions and public safety. My dissertation bridges the gap
 between operational emergency response and long-term hydrologic research.
 
-Tribal partnerships with the Yakama Nation and Colville Confederated Tribes inform 
+Tribal partnerships with the Yakama Nation and Colville Confederated Tribes inform
 field site access and research priorities.
 </div>
